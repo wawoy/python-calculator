@@ -1,5 +1,8 @@
 # Intallation
 ## Windows
+##
+
+
 
 ## Mac-OS
  ### To download macOS from the App Store, you must download from a Mac that is compatible with that macOS. If your Mac isn't compatible, the App Store dims the Get button, says that the macOS is not compatible with this device, or says that the requested version of macOS is not available.
@@ -10,7 +13,7 @@
 
 # Pre-requisites
   ## Tech-stack
-  
+  ### 
 # About the Author
   ## 
   ## https://www.facebook.com/dannishilohdianne.menil
