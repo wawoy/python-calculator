@@ -6,7 +6,7 @@
   ## Tech-stack
   
 # About the Author
-  ## Cute si me
+  ##e shiloh mnenil
   ## https://www.facebook.com/dannishilohdianne.menil
 
   # Disclaimer
