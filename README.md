@@ -6,7 +6,7 @@
   ## Tech-stack
   
 # About the Author
-  ##e shiloh mnenil
+  ## Shiloh Menil
   ## https://www.facebook.com/dannishilohdianne.menil
 
   # Disclaimer
