@@ -11,5 +11,5 @@
   ## https://www.facebook.com/dannishilohdianne.menil
 
   # Disclaimer
-  **Shiloh Menil**
-  _ABM11_
+  **Shiky**
+  _Shilohya_
